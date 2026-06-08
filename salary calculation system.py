@@ -16,4 +16,4 @@ for i in range(n):
 
     print("Gross Salary =", gross)
     print("Deduction =", deduction)
-    print("Net Salary =", net)
+    print("Net Salary =", net)       
